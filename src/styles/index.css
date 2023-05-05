@@ -1,0 +1,13 @@
+ul {
+    list-style: none;
+}
+
+li {
+padding-top: 20px;
+margin-bottom: 20px;
+}
+
+.fondo {
+    min-height: 100vh;
+    min-width: 100vh;
+}
